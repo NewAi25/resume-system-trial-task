@@ -1,0 +1,48 @@
+{
+  "name": "Manisha Sarkar",
+  "title": "DevOps Intern",
+  "summary": "I am a motivated and detail-oriented DevOps Intern with hands-on experience in Azure, GitHub Actions, Docker, and Terraform. I have created CI/CD pipelines, automated deployment workflows, and implemented monitoring solutions using Azure Monitor and CloudWatch. I enjoy problem-solving, building efficient systems, and learning new tools that enhance productivity.",
+  "skills": [
+    "Azure Cloud",
+    "CI/CD Pipelines",
+    "GitHub Actions",
+    "Terraform",
+    "Docker",
+    "Linux",
+    "Python",
+    "Monitoring and Logging"
+  ],
+  "experience": [
+    {
+      "company": "TechWave Solutions",
+      "role": "DevOps Intern",
+      "duration": "June 2025 - Present",
+      "responsibilities": [
+        "Built automated CI/CD pipelines using GitHub Actions and Docker.",
+        "Deployed Flask and FastAPI apps on Azure Web App Service.",
+        "Configured Azure Monitor and Application Insights for end-to-end observability.",
+        "Collaborated with developers to optimize build and deployment time from 30 minutes to 1 minute."
+      ]
+    },
+    {
+      "company": "Freelance",
+      "role": "Python Developer",
+      "duration": "January 2024 - May 2025",
+      "responsibilities": [
+        "Developed Python automation scripts to improve efficiency in data collection and reporting.",
+        "Built small web tools using Streamlit and Flask for visualization and analysis.",
+        "Managed source control and deployment using GitHub and Azure DevOps."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "B.Tech in Electronics and Communication Engineering",
+    "institution": "Techno India University",
+    "year": "2020"
+  },
+  "certifications": [
+    "Microsoft Certified: Azure Administrator Associate (AZ-104)",
+    "Docker Essentials",
+    "Linux for DevOps"
+  ]
+}
