@@ -3,6 +3,8 @@
 An AI-powered resume summarizer built with **Flask** and **Hugging Face Transformers** that generates concise, professional summaries from structured resume data (JSON input).  
 Ideal for quick candidate profiling and HR automation.
 
+https://github.com/NewAi25/resume-system-trial-task/blob/5ca74ee9389e3cebf822588a4798887b987aa72c/Screenshot%202025-10-29%20124454.png
+
 ---
 
 ## 🚀 Features
